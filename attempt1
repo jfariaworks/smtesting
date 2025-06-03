@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+		<style type="text/css">
+			body {
+				margin: 0;
+				padding: 0;
+				background-color: #eeeeee;
+				color: #999999;
+				font-family: Arial, Helvetica, sans-serif;
+				font-size: 12px;
+				-webkit-text-size-adjust: none;
+			}
+			/*Hotmail and Yahoo specific code*/
+			
+			.ReadMsgBody {
+				width: 100%;
+			}
+			
+			.ExternalClass {
+				width: 100%;
+			}
+			
+			.yshortcuts {
+				color: #999999
+			}
+			
+			.yshortcuts a span {
+				color: #777777
+			}
+
+		</style>
+	</head>
+	<body class="fr-no-selection" spellcheck="false" style="min-height: 400px;">
+
+		<table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" id="m_-6466432973149570469bodyTable" style="border-collapse:collapse;height:100%;margin:0 auto;padding:0;width:100%;max-width:600px;background-color:#fafafa;" width="600">
+			<tbody>
+				<tr>
+					<td align="center" id="m_-6466432973149570469bodyCell" style="height:100%;margin:0;padding:10px;width:100%;max-width:600px;display:block;border-top:0;" valign="top" width="600">
+
+						<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:0;max-width:600px!important;" width="600">
+							<tbody>
+								<tr>
+									<td id="m_-6466432973149570469templatePreheader" style="background-color:#fafafa;background-image:none;background-repeat:no-repeat;background-position:center;background-size:cover;border-top:0;border-bottom:0;padding-top:9px;padding-bottom:9px;" valign="top">
+										<br>
+									</td>
+								</tr>
+								<tr>
+									<td id="m_-6466432973149570469templateHeader" style="background-color:#ffffff;background-image:none;background-repeat:no-repeat;background-position:center;background-size:cover;border-top:0;border-bottom:0;padding-top:9px;padding-bottom:0;" valign="top">
+										<br>
+									</td>
+								</tr>
+								<tr>
+									<td id="m_-6466432973149570469templateBody" style="background-color:#ffffff;background-image:none;background-repeat:no-repeat;background-position:center;background-size:cover;border-top:0;border-bottom:2px solid #eaeaea;padding-top:0;padding-bottom:9px;" valign="top">
+
+										<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;" width="100%">
+											<tbody>
+												<tr>
+													<td style="padding-top:9px;" valign="top">
+
+														<table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%;min-width:100%;border-collapse:collapse;" width="100%">
+															<tbody>
+																<tr>
+																	<td style="padding:0px 18px 9px;line-height:150%;word-break:break-word;color:#202020;font-family:Helvetica;font-size:16px;text-align:left;" valign="top">
+
+																		<p dir="auto" style="text-align: left;">Hi {contact.first_name},<span style="font-family: Verdana, Geneva, sans-serif; font-size: 14px;"></span>
+																			<br>
+																			<br>Thank you for your business!</p>
+
+																		<p dir="auto" style="text-align: left;">You may view your receipt by clicking the link below:
+																			<br>
+																			<br><a href="{url}" rel="noopener noreferrer" target="_blank">Receipt</a>
+																			<br>
+																			<br>If you have any questions, please give us a call at <a href="tel:{organization.phone}" rel="noopener noreferrer" target="_blank"><strong>{organization.phone}</strong></a> or send us an email at <strong><a href="mailto:{organization.email}" rel="noopener noreferrer" target="_blank">{organization.email}</a></strong>.
+																			<br>&nbsp;
+																			<br>Thanks!</p>
+																		<div style="text-align: left;">
+																			<br>
+																		</div>
+																		<div style="text-align: left;">Jeff Johnson</div>
+																		<div style="text-align: left;">P: {organization.phone}</div>
+																		<div style="text-align: left;">E: {organization.email}</div>
+																		<div style="text-align: left;">W: {organization.website}</div>
+																		<div style="text-align: left;"><a href="{unsubscribe_url}" rel="noopener noreferrer" target="_blank">Unsuscribe</a></div>
+																		<br>
+																		<br>
+																		<br><img src="http://d1m4vp65okes21.cloudfront.net/t/o/2723/e/83808-EE93C94F-0F5B-46AC-ADD3-3C709CBD0806.png" class="fr-fic fr-dii" style="max-width: 100%; height: auto;">
+																		<br>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+								<tr>
+									<td id="m_-6466432973149570469templateFooter" style="padding:0; margin:0;" valign="top">
+										<div style="background-color:#fafafa; background-image:url('https://your-image-url.com/image.jpg'); background-repeat:no-repeat; background-position:center; background-size:cover; width:100%; max-width:600px; height:200px; margin:0 auto;">
+											<div style="padding: 20px; text-align: center; font-family: Arial, sans-serif; font-size:12px; color:#555;">
+
+												<p>Thank you for being with us.</p><a href="{unsubscribe_url}" rel="noopener noreferrer" style="color: #999999; text-decoration: none;" target="_blank">Unsubscribe</a></div>
+										</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+</html>
