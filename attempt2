@@ -1,0 +1,260 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Language" content="en-us">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>ServiceMinder</title>
+		<style type="text/css">
+			body {
+				margin: 0;
+				padding: 0;
+				background-color: #eeeeee;
+				color: #999999;
+				font-family: Arial, Helvetica, sans-serif;
+				font-size: 12px;
+				-webkit-text-size-adjust: none;
+			}
+			
+			h1,
+			h2,
+			h3,
+			h4,
+			h5,
+			h6 {
+				color: #39434d !important;
+				margin-bottom: 10px !important;
+			}
+			
+			a,
+			a:link,
+			a:visited {
+				color: #777777;
+				text-decoration: none;
+				border-bottom: 1px #777777 dotted;
+			}
+			
+			a:hover,
+			a:active {
+				text-decoration: none;
+				color: #0f79aa !important;
+				border-bottom: 1px #0f79aa dotted !important;
+			}
+			
+			img {
+				border: 0;
+			}
+			/*Hotmail and Yahoo specific code*/
+			
+			.ReadMsgBody {
+				width: 100%;
+			}
+			
+			.ExternalClass {
+				width: 100%;
+			}
+			
+			.yshortcuts {
+				color: #999999
+			}
+			
+			.yshortcuts a span {
+				color: #777777
+			}
+			/*Hotmail and Yahoo specific code*/
+
+		</style>
+	</head>
+	<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1241.0" data-new-gr-c-s-loaded="14.1241.0" style="min-height: 400px;">
+		<div style="text-align: center;">
+			<br>
+		</div>
+
+		<table align="center" cellpadding="0" cellspacing="0" id="container" style="width: 100%; margin:0; padding:0; background-color:#eeeeee;">
+			<!-- Start of main container -->
+			<tbody>
+				<tr>
+					<td style="width: 33.3333%;">
+						<br>
+
+						<table align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse; text-align:left; font-family:Arial, Helvetica, sans-serif; font-weight:normal; font-size:12px; line-height:15pt; color:#999999; margin:0 auto;" width="620">
+							<tbody>
+								<tr>
+									<td style="padding: 20px 0px; width: 36.84%; color: rgb(255, 255, 255); text-align: center;">
+										<br><img align="center" class="fr-fic fr-dib" style="width: 588px; margin: 0 auto; display: block;" width="588" src="http://d1m4vp65okes21.cloudfront.net/t/o/1190/e/0-GutterTex_Full.png">
+										<br>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!--End of Logo -->
+						<!-- Start of letter container  -->
+					</td>
+				</tr>
+				<tr>
+					<td bgcolor="#2a8fbd" style="padding: 15px 20px 22px; width: 36.96%; color: rgb(153, 153, 153); line-height: 15pt; font-family: Arial, Helvetica, sans-serif; font-size: 12px; background-color: rgb(60, 68, 49); text-align: left;">
+
+						<table align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse; text-align:left; font-family:Arial, Helvetica, sans-serif; font-weight:normal; font-size:12px; line-height:15pt; color:#999999; margin:0 auto;" width="580">
+							<tbody>
+								<tr>
+									<td style="padding: 10px 0px 0px; width: 32.67%; background-color: rgb(60, 68, 49); color: rgb(255, 255, 255) !important; text-align: center;" valign="middle">
+										<div style="text-align: center; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:36px; line-height:24pt; font-weight:bold; margin:0 auto; display:block; color:#ffffff;">Receipt and Reviews</div><span style="padding:0; margin:0; font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:17pt; font-weight:lighter; display:block;color:#ffffff;">{invoice.date}</span>
+										<br>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td bgcolor="#ffffff" style="padding: 15px 20px; width: 36.96%; color: rgb(153, 153, 153); line-height: 15pt; font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align: center;"><span style="font-size: 12px;"><span style="color: rgb(0, 0, 0);">Hey <span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-family: SofiaProLightRegular,Arial,Helvetica,sans-serif; font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">{contact.first_name}</span><span style="text-align: left; color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: SofiaProLightRegular,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; word-spacing: 0px; display: inline !important; white-space: normal; orphans: 2; float: none; -webkit-text-stroke-width: 0px; background-color: transparent;">,</span>
+						<br>
+						<br>
+						</span><span style='margin: 0px; color: rgb(34, 34, 34); line-height: 107%; font-family: "Arial",sans-serif;'>We just wanted to thank you for having us at your home. We are a very small locally owned company and the life blood of our business is reviews.<strong>&nbsp;If you felt like we gave you 5 star service a review on </strong></span><span style="font-size: 12px;"><strong><span style="color: rgb(0, 0, 0);"><span style="margin: 0px; line-height: 107%; font-family: Arial, sans-serif;">Yelp, </span></span>
+						</strong><span style="font-size: 12px;"><strong><span style="color: rgb(0, 0, 0);"><span style="margin: 0px; line-height: 107%; font-family: Arial,sans-serif;">Google</span><span style='margin: 0px; line-height: 107%; font-family: "Arial",sans-serif;'>&nbsp;and/or Nextdoor</span></span><span style='margin: 0px; color: rgb(84, 172, 210); line-height: 107%; font-family: "Arial",sans-serif;'>&nbsp;</span></strong><span style='margin: 0px; color: rgb(34, 34, 34); line-height: 107%; font-family: "Arial",sans-serif;'><strong>means a lot to us.</strong> The links are provided below. &nbsp;We take a lot of pride in seeing our reviews from our clients. We also give a bonus to any member of our team you mention by name. Let us know if you need anything.</span></span>
+						</span>
+						</span>
+						<br><span style="font-size: 12px;"><span style="font-size: 12px;"><span style="font-size: 12px;"><span style='margin: 0px; color: rgb(34, 34, 34); line-height: 107%; font-family: "Arial",sans-serif;'>&nbsp;</span></span>
+						</span>
+						</span><span style="color: rgb(0, 0, 0);"><strong><br></strong></span>
+
+						<table style="width: 600px; margin: auto;">
+							<tbody>
+								<tr>
+									<td style="width: 33.5057%; text-align: center;"><strong><span style="color: rgb(0, 0, 0);">Austin </span></strong>
+										<br>
+									</td>
+									<td style="width: 33.5057%; text-align: center;"><strong><span style="color: rgb(0, 0, 0);">San Antonio</span></strong>
+										<br>
+									</td>
+									<td style="width: 33.5057%; text-align: center;"><strong><span style="color: rgb(0, 0, 0);">Richardson </span></strong>
+										<br>
+									</td>
+								</tr>
+								<tr>
+									<td style="width: 33.5057%; text-align: center;"><a href="https://www.yelp.com/biz/gutter-tex-buda" rel="noopener noreferrer" target="_blank">Yelp reviews</a>
+										<br>
+									</td>
+									<td style="width: 33.5057%; text-align: center;">&nbsp;<a href="https://www.yelp.com/search?find_desc=gutters&find_loc=San+Antonio%2C+TX">Yelp reviews</a>
+										<br>
+									</td>
+									<td style="width: 33.5057%; text-align: center;"><a href="https://www.yelp.com/search?find_desc=gutters&find_loc=Richardson%2C+TX">Yelp reviews</a>
+										<br>
+									</td>
+								</tr>
+								<tr>
+									<td style="width: 33.5057%; text-align: center;"><a href="https://g.page/r/Cdfn1aO1CDvMEAE/review" rel="noopener noreferrer" target="_blank">Google reviews</a>
+										<br>
+									</td>
+									<td style="width: 33.5057%; text-align: center;"><a href="https://g.page/r/CaqvXNuglNpREB0/review">Google reviews</a>
+										<br>
+									</td>
+									<td style="width: 33.5057%; text-align: center;"><a href="https://g.page/r/CbUVmlHUdRwCEBM/review">Google reviews</a>&nbsp;
+										<br>
+									</td>
+								</tr>
+							</tbody>
+						</table>&nbsp;
+
+						<table style="width: 600px; margin: auto;">
+							<tbody>
+								<tr>
+									<td style="width: 33.5057%; text-align: center;"><strong><span style="color: rgb(0, 0, 0);">The Woodlands</span></strong>
+										<br>
+									</td>
+									<td style="width: 33.5057%; text-align: center;"><strong><span style="color: rgb(0, 0, 0);">Katy </span></strong>
+										<br>
+									</td>
+									<td style="width: 33.5057%; text-align: center;"><strong><span style="color: rgb(0, 0, 0);">Ft. Worth</span></strong>
+										<br>
+									</td>
+								</tr>
+								<tr>
+									<td style="width: 33.5057%; text-align: center;">&nbsp;<a href="https://www.yelp.com/biz/gutter-tex-spring">Yelp reviews</a>
+										<br>
+									</td>
+									<td style="width: 33.5057%; text-align: center;"><a href="https://www.yelp.com/biz/gutter-tex-katy">Yelp reviews</a>
+										<br>
+									</td>
+									<td style="width: 33.5057%; text-align: center;"><a href="https://www.yelp.com/search?find_desc=gutter+tex&find_loc=ft+worth">Yelp reviews</a>
+										<br>
+									</td>
+								</tr>
+								<tr>
+									<td style="width: 33.5057%; text-align: center;"><a href="https://g.page/r/CXhWIYeQ53aEEBM/review">Google reviews</a>
+										<br>
+									</td>
+									<td style="width: 33.5057%; text-align: center;"><a href="https://www.google.com/search?q=gutter+tex+katy&oq=gutter+tex+katy&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MggIARAAGBYYHjIICAIQABgWGB4yBggDEEUYQDIGCAQQRRg9MgYIBRBFGD3SAQg1NTM2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8">Google reviews</a>&nbsp;
+										<br>
+									</td>
+									<td style="width: 33.5057%; text-align: center;"><a href="https://g.page/r/CYPehNy0RXn1EBM/review">Google reviews</a>
+										<br>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<br>
+
+						<table style="width: 600px; margin: auto;">
+							<tbody>
+								<tr>
+									<td style="width: 33.3333%;"><strong><span style="color: rgb(0, 0, 0);">Sugar Land</span></strong></td>
+									<td style="width: 33.3333%;"><strong><span style="color: rgb(0, 0, 0);">Jersey Village</span></strong></td>
+									<td style="width: 33.3333%;"><strong><span style="color: rgb(0, 0, 0);">Dallas</span></strong></td>
+								</tr>
+								<tr>
+									<td style="width: 33.3333%;"><a href="https://g.page/r/CW3NOJOx8TubEBM/review">Google reviews</a>
+										<br>
+									</td>
+									<td style="width: 33.3333%;"><a href="https://g.page/r/CW3NOJOx8TubEBM/review">Google reviews</a>
+										<br>
+									</td>
+									<td style="width: 33.3333%;"><a href="https://g.page/r/CW3NOJOx8TubEBM/review">Google reviews</a>
+										<br>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<br>
+
+						<table style="width: 600px; margin: auto;">
+							<tbody>
+								<tr>
+									<td style="width: 50%; text-align: center;"><strong><span style="color: rgb(0, 0, 0);">Sugar Land</span></strong></td>
+									<td style="width: 50%; text-align: center;"><strong><span style="color: rgb(0, 0, 0);">Jersey Village</span></strong></td>
+								</tr>
+								<tr>
+									<td style="width: 50%; text-align: center;"><a href="https://g.page/r/CW3NOJOx8TubEBM/review">Google reviews</a>
+										<br>
+									</td>
+									<td style="width: 50%; text-align: center;"><a href="https://g.page/r/CW3NOJOx8TubEBM/review">Google reviews</a>
+										<br>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<br>
+						<br>
+						<br>
+						<div data-empty="true" style="text-align: center;">
+							<br>
+						</div>
+						<div><strong><span style="color: rgb(209, 72, 65); font-size: 18px;">Don't forget we offer exterior window cleaning, pressure washing, and roof cleaning! </span></strong><strong><div style="color: rgb(209, 72, 65); text-align: center;"><img align="center" class="fr-fic fr-dib fr-fil" style="width: 300px; margin: 0 auto; display: block;" width="300" src="http://d1m4vp65okes21.cloudfront.net/t/o/1190/e/0-PW.jpg"></div></strong></div><span style="color: rgb(0, 0, 0);"><strong>Your receipt is available to </strong><span style="text-align: left; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; word-spacing: 0px; display: inline !important; white-space: normal; orphans: 2; float: none; -webkit-text-stroke-width: 0px; background-color: transparent;"><strong>view by clicking the link below:</strong></span></span>
+						<br>
+						<br><span style="color: rgb(41, 105, 176);"><a href="{url}"><span style="font-size: 24px;">Receipt</span></a>
+						</span><span style="font-size: 24px;"><span style="color: rgb(41, 105, 176);"><a href="{url}">&nbsp;is here for you</a></span></span><span style="font-size: 12px;"><span style="font-size: 12px;"><span style="font-size: 12px;"><span style="color: rgb(0, 0, 0);"><br><br>Thank you,<br>Your {organization.name} Team</span></span>
+						</span>
+						</span>
+						<br>
+					</td>
+				</tr>
+				<!--Start of footer container-->
+				<tr>
+					<td bgcolor="#f4f4f4" style="padding: 17px 20px 12px; width: 36.96%; color: rgb(153, 153, 153); line-height: 15pt; font-family: Arial, Helvetica, sans-serif; font-size: 12px; border-top: 1px dashed rgb(238, 238, 238); background-color: rgb(60, 68, 49);">
+						<br>
+					</td>
+				</tr>
+				<!--End of footer container-->
+			</tbody>
+		</table>
+	</body>
+</html>
